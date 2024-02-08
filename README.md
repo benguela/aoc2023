@@ -1,4 +1,4 @@
-# aoc2023
+# Advent of Code 2023
 
 My attempt at Advent of Code 2023 in Go
 
